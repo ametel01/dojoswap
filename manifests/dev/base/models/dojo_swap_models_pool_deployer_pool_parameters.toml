@@ -1,0 +1,15 @@
+kind = "DojoModel"
+class_hash = "0x691126ee1353944c2dc9a215a1b04b452a0c42606f851a3aff7d44ef61512a5"
+original_class_hash = "0x691126ee1353944c2dc9a215a1b04b452a0c42606f851a3aff7d44ef61512a5"
+abi = "manifests/dev/abis/base/models/dojo_swap_models_pool_deployer_pool_parameters.json"
+name = "dojo_swap::models::pool_deployer::pool_parameters"
+
+[[members]]
+name = "pool"
+type = "ContractAddress"
+key = true
+
+[[members]]
+name = "parameters"
+type = "Parameters"
+key = false

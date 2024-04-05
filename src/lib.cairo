@@ -1,10 +1,11 @@
 mod systems {
-    mod actions;
+    mod factory;
+    mod pool_deployer;
+    mod pool;
 }
 
 mod models {
-    mod moves;
-    mod position;
+    mod pool_deployer;
 }
 
 mod tests {

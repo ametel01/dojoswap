@@ -1,0 +1,9 @@
+kind = "DojoContract"
+class_hash = "0xcc8e28cedf8724c41f958b5e74820f15d056a74fc769064d00a6582d4f7ba1"
+original_class_hash = "0xcc8e28cedf8724c41f958b5e74820f15d056a74fc769064d00a6582d4f7ba1"
+base_class_hash = "0x0"
+abi = "manifests/dev/abis/base/contracts/dojo_swap_systems_pool_deployer_pooldeployeractions.json"
+reads = []
+writes = []
+computed = []
+name = "dojo_swap::systems::pool_deployer::pooldeployeractions"
